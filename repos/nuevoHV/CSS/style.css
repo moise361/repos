@@ -1,0 +1,181 @@
+
+body{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5;
+    
+}
+
+header{
+background: #232224;
+    color: #ffffff;
+    align-content: center center;
+}
+
+.contenedor-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: center center;
+    padding: 1rem;
+}
+
+.foto-perfil{
+    width: 16rem;
+    height: 16rem;
+    -moz-border-radiun: 50%;
+    -webkit-border-radiun: 50%;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.contenedor-texto-header{
+    line-height: 0.8;
+    height: 13rem;
+    width: 47rem;
+    display: grid;
+}
+
+.contenedor-nombre-principal{
+    line-height: 0.4; 
+    width: auto;
+    height: auto;
+    background-position: center center;
+}
+.textogris{
+    color: gray;
+    font-size: 1rem;
+    line-height: 1.5;
+    align-self: normal;
+}
+.fecha{
+    height: 13rem;
+    color: #ffffff;
+    font-size: 1rem;
+    line-height: normal;
+}
+
+.recuadro{
+    color: white;
+    background: #323233;
+    width: 25rem;
+    padding: 1rem;
+    text-align: center;
+    line-height: 1rem;
+
+}
+
+.contenedor-main {
+    display: flex;
+    justify-content: space-between;
+    background-position: center center;
+    padding: 1rem;
+}
+
+.contenedor-section{
+    width: 45rem;
+}
+
+.contenedor-section1{
+    width: 27rem;
+
+}
+
+.modelar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-position: center center;
+}
+.contenedor-contenido-1{
+    height:32rem;
+    padding-right: 2rem;
+}
+.contenedor-contenido-2{
+    height:32rem;
+    padding-right: 2rem;
+}
+.contenedor-contenido-3{
+    height:28rem;
+    padding-right: 2rem;
+}
+.contenedor-contenido-4{
+    height:32rem;
+}
+.contenedor-contenido-5{
+    height:32rem;
+}
+.contenedor-contenido-6{
+    height:206rem;
+}
+
+.texto-contenedor{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.altura-de-texto{
+    line-height: 1.3rem;
+}
+
+.barra{
+    width: 12rem;
+    border: 0.1px solid;
+    color: #323232;
+}
+.barra-0{
+    background: #323232;;
+    width: 88%;
+    padding: 0.4rem;
+}
+.barra-1{
+    background: #323232;
+    width: 60%;
+    padding: 0.4rem;
+}
+.barra-2{
+    background: #323232;
+    width: 82%;
+    padding: 0.4rem;
+}
+.barra-3{
+    background: #323232;
+    width: 55%;
+    padding: 0.4rem;
+}
+.barra-4{
+    background: #323232;
+    width: 73%;
+    padding: 0.4rem;
+}
+.barra-5{
+    background: #323232;
+    width: 82%;
+    padding: 0.4rem;
+}
+.barra-6{
+    background: #323232;
+    width: 55%;
+    padding: 0.4rem;
+}
+.barra-7{
+    background: #323232;
+    width: 50%;
+    padding: 0.4rem;
+}
+.barra-8{
+    background: #323232;
+    width: 60%;
+    padding: 0.4rem;
+}
+.barra-9{
+    background: #323233;
+    width: 80%;
+    padding: 0.4rem;
+}
+.barra-10{
+    background: #323233;
+    width: 73%;
+    padding: 0.4rem;
+}
